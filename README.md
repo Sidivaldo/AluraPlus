@@ -11,7 +11,7 @@
  <li>CSS</li>
 </ul>
 
-<h2> Imagens do projeoto</h2>
+<h2> Imagens do projeto</h2>
 
 <img src="/imagens do projetos/section 1.jpg" alt="">
 <img src="/imagens do projetos/section 2.jpg" alt="">
